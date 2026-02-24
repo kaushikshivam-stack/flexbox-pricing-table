@@ -14,7 +14,7 @@ This is a responsive pricing table built using HTML and CSS Flexbox.
 - Beginner-friendly code structure
 
 🌐 Live Demo
-👉 https://your-username.github.io/flexbox-pricing-table/
+👉 https://kaushikshivam-stack.github.io/flexbox-pricing-table/
 
 🙌 What I Learned
 - Flexbox layout concepts
