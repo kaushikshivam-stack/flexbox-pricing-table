@@ -21,4 +21,8 @@ This is a responsive pricing table built using HTML and CSS Flexbox.
 - Media queries for responsiveness
 - Building real-world UI components
 
+## 📸 Project Screenshot
+
+![Pricing Table](Screenshot1.png)
+
 ⭐ This project helped me strengthen my CSS fundamentals.
